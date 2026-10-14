@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\my staf\\5lab\\5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC6208A-FABE-446A-AB47-10E3A2121D62}|5\\5.vcxproj|C:\\my staf\\5lab\\5\\5\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BC6208A-FABE-446A-AB47-10E3A2121D62}|5\\5.vcxproj|solutionrelative:5\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.cpp",
+              "DocumentMoniker": "C:\\my staf\\5lab\\5\\5\\5.cpp",
+              "RelativeDocumentMoniker": "5\\5.cpp",
+              "ToolTip": "C:\\my staf\\5lab\\5\\5\\5.cpp",
+              "RelativeToolTip": "5\\5.cpp",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-14T11:57:23.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
